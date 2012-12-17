@@ -1,5 +1,5 @@
 [HTML5 Boilerplate homepage](http://html5boilerplate.com) | [Documentation
-table of contents](README.md)
+table of contents](TOC.md)
 
 # The HTML
 
@@ -107,6 +107,7 @@ icons using `link` elements placed in the HTML `head` of your document.
 For a comprehensive overview, please read [Everything you always wanted to know
 about touch icons](http://mathiasbynens.be/notes/touch-icons) by Mathias
 Bynens.
+
 
 ## Modernizr
 
